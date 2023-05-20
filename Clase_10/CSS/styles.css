@@ -1,0 +1,25 @@
+.container{
+    background-color: aqua;
+
+}
+
+.columna{
+    background-image: url(/ASSETS/tree-736885_1280.jpg);
+    border: 3px solid black;
+    height: 200px;
+    }
+
+.columna p{
+    color: azure;
+}
+
+body{
+    background-color:moccasin;
+}
+
+.d-block{
+    width: 400px;
+    height: 400px;  
+}
+
+
